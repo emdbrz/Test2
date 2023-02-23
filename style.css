@@ -3,11 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 img {
   width: 50px;
   height: 50px;
-}
-$font-weights: (
-  'regular': 400; 'medium': 500,
-  'bold': 700,
-);
+}/*# sourceMappingURL=style.css.map */
